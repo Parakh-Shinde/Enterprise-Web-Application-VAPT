@@ -1,5 +1,5 @@
- 🔐 Enterprise Web Application VAPT (DVWA & OWASP Juice Shop)
-Enterprise Web Application Penetration Testing | DVWA | OWASP Juice Shop | Burp Suite | SQLMap | Hydra | Kali Linux
+## 🔐 Enterprise Web Application VAPT (DVWA & OWASP Juice Shop)
+## Enterprise Web Application Penetration Testing | DVWA | OWASP Juice Shop | Burp Suite | SQLMap | Hydra | Kali Linux
 
 ## 📌 Project Overview
 
